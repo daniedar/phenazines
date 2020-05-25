@@ -1,0 +1,808 @@
+run_acc	sample_type	sample_subtype	organism	gold
+b1 (our data no # yet)	Soil	Agricultural soil	NA	NA
+b2 (our data no # yet)	Soil	Agricultural soil	NA	NA
+b3 (our data no # yet)	Soil	Agricultural soil	NA	NA
+ERR1654119	Rhizosphere	Rhizosphere	Lettuce	NA
+ERR1654120	Rhizosphere	Rhizosphere	Lettuce	NA
+ERR1654121	Rhizosphere	Rhizosphere	Lettuce	NA
+ERR1654122	Rhizosphere	Rhizosphere	Lettuce	NA
+ERR1654123	Rhizosphere	Rhizosphere	Lettuce	NA
+ERR1654124	Rhizosphere	Rhizosphere	Lettuce	NA
+ERR1654125	Rhizosphere	Rhizosphere	Lettuce	NA
+ERR1654126	Rhizosphere	Rhizosphere	Lettuce	NA
+ERR1700674	Soil	Forest	NA	NA
+ERR1700675	Soil	Forest	NA	NA
+ERR1700676	Soil	Forest	NA	NA
+ERR1700677	Soil	Forest	NA	NA
+ERR1700678	Soil	Forest	NA	NA
+ERR1700679	Soil	Forest	NA	NA
+ERR1700680	Soil	Forest	NA	NA
+ERR1700681	Soil	Forest	NA	NA
+ERR1700682	Soil	Forest	NA	NA
+ERR1700683	Soil	Forest	NA	NA
+ERR1700684	Soil	Forest	NA	NA
+ERR1700685	Soil	Forest	NA	NA
+ERR1700686	Soil	Forest	NA	NA
+ERR1700687	Soil	Forest	NA	NA
+ERR1700688	Soil	Forest	NA	NA
+ERR1700689	Soil	Forest	NA	NA
+ERR1700690	Soil	Forest	NA	NA
+ERR1700691	Soil	Forest	NA	NA
+ERR1700692	Soil	Forest	NA	NA
+ERR1700693	Soil	Forest	NA	NA
+ERR1700694	Soil	Forest	NA	NA
+ERR1700695	Soil	Forest	NA	NA
+ERR1700696	Soil	Forest	NA	NA
+ERR1700697	Soil	Forest	NA	NA
+ERR1700698	Soil	Forest	NA	NA
+ERR1700699	Soil	Forest	NA	NA
+ERR1700700	Soil	Forest	NA	NA
+ERR1700701	Soil	Forest	NA	NA
+ERR1700702	Soil	Forest	NA	NA
+ERR1700703	Soil	Forest	NA	NA
+ERR1700704	Soil	Forest	NA	NA
+ERR1700705	Soil	Forest	NA	NA
+ERR1700706	Soil	Forest	NA	NA
+ERR1700707	Soil	Forest	NA	NA
+ERR1700708	Soil	Forest	NA	NA
+ERR1700709	Soil	Forest	NA	NA
+ERR1700710	Soil	Forest	NA	NA
+ERR1700711	Soil	Forest	NA	NA
+ERR1700712	Soil	Forest	NA	NA
+ERR1700713	Soil	Forest	NA	NA
+ERR1700714	Soil	Forest	NA	NA
+ERR1700715	Soil	Forest	NA	NA
+ERR1700716	Soil	Forest	NA	NA
+ERR1700717	Soil	Forest	NA	NA
+ERR1700718	Soil	Forest	NA	NA
+ERR1700719	Soil	Forest	NA	NA
+ERR1700720	Soil	Forest	NA	NA
+ERR1700721	Soil	Forest	NA	NA
+ERR1700722	Soil	Forest	NA	NA
+ERR1700724	Soil	Forest	NA	NA
+ERR1700725	Soil	Forest	NA	NA
+ERR1700726	Soil	Forest	NA	NA
+ERR1700727	Soil	Forest	NA	NA
+ERR1700728	Soil	Forest	NA	NA
+ERR1700729	Soil	Forest	NA	NA
+ERR1700730	Soil	Forest	NA	NA
+ERR1700731	Soil	Forest	NA	NA
+ERR1700732	Soil	Forest	NA	NA
+ERR1700733	Soil	Forest	NA	NA
+ERR1700734	Soil	Forest	NA	NA
+ERR1700735	Soil	Forest	NA	NA
+ERR1700736	Soil	Forest	NA	NA
+ERR1700737	Soil	Forest	NA	NA
+ERR1700738	Soil	Forest	NA	NA
+ERR1700739	Soil	Forest	NA	NA
+ERR1700740	Soil	Forest	NA	NA
+ERR1700741	Soil	Forest	NA	NA
+ERR1700742	Soil	Forest	NA	NA
+ERR1700743	Soil	Forest	NA	NA
+ERR1700745	Soil	Forest	NA	NA
+ERR1700746	Soil	Forest	NA	NA
+ERR1700747	Soil	Forest	NA	NA
+ERR1700748	Soil	Forest	NA	NA
+ERR1700749	Soil	Forest	NA	NA
+ERR1700750	Soil	Forest	NA	NA
+ERR1700751	Soil	Forest	NA	NA
+ERR1700752	Soil	Forest	NA	NA
+ERR1700753	Soil	Forest	NA	NA
+ERR1700754	Soil	Forest	NA	NA
+ERR1700755	Soil	Forest	NA	NA
+ERR1700756	Soil	Forest	NA	NA
+ERR1700757	Soil	Forest	NA	NA
+ERR1700758	Soil	Forest	NA	NA
+ERR1700759	Soil	Forest	NA	NA
+ERR1700761	Soil	Forest	NA	NA
+ERR1742252	Soil	Forest	NA	NA
+ERR1742253	Soil	Forest	NA	NA
+ERR1742254	Soil	Forest	NA	NA
+ERR1742255	Soil	Forest	NA	NA
+ERR1742256	Soil	Forest	NA	NA
+ERR1742257	Soil	Forest	NA	NA
+ERR1742258	Soil	Forest	NA	NA
+ERR1742259	Soil	Forest	NA	NA
+ERR1742260	Soil	Forest	NA	NA
+ERR1742261	Soil	Forest	NA	NA
+ERR1742262	Soil	Forest	NA	NA
+ERR1742263	Soil	Forest	NA	NA
+ERR1742265	Soil	Forest	NA	NA
+ERR1742266	Soil	Forest	NA	NA
+ERR1742267	Soil	Forest	NA	NA
+ERR1742268	Soil	Forest	NA	NA
+ERR1742269	Soil	Forest	NA	NA
+ERR1742270	Soil	Forest	NA	NA
+ERR1742271	Soil	Forest	NA	NA
+ERR1742272	Soil	Forest	NA	NA
+ERR1742273	Soil	Forest	NA	NA
+ERR1742274	Soil	Forest	NA	NA
+ERR1742275	Soil	Forest	NA	NA
+ERR1742276	Soil	Forest	NA	NA
+ERR1742277	Soil	Forest	NA	NA
+ERR436051	Soil	Agricultural soil	NA	NA
+ERR436052	Soil	Agricultural soil	NA	NA
+ERR436053	Soil	Agricultural soil	NA	NA
+ERR436054	Soil	Agricultural soil	NA	NA
+ERR436055	Soil	Agricultural soil	NA	NA
+ERR436056	Soil	Agricultural soil	NA	NA
+ERR436057	Soil	Agricultural soil	NA	NA
+ERR436058	Soil	Agricultural soil	NA	NA
+ERR646488	Rhizosphere	Rhizosphere	Barley	NA
+ERR647605	Rhizosphere	Rhizosphere	Barley	NA
+ERR647606	Rhizosphere	Rhizosphere	Barley	NA
+ERR647607	Rhizosphere	Rhizosphere	Barley	NA
+ERR647608	Rhizosphere	Rhizosphere	Barley	NA
+ERR647609	Rhizosphere	Rhizosphere	Barley	NA
+SRR1029957	Soil	Wetland	NA	NA
+SRR1152189	Soil	Agricultural soil	NA	NA
+SRR1153387	Soil	Agricultural soil	NA	NA
+SRR1510967	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510968	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510969	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510970	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510971	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510976	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510977	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510978	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510979	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510983	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510984	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510985	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510989	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510990	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510991	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510992	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510993	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510995	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510996	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510997	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510998	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1510999	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511000	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511001	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511002	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511006	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511007	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511008	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511009	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511010	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1511011	Rhizosphere	Rhizosphere	Switchgrass	NA
+SRR1924237	Rhizosphere	Rhizosphere	Sugarcane	NA
+SRR1926113	Rhizosphere	Rhizosphere	Sugarcane	NA
+SRR1926121	Rhizosphere	Rhizosphere	Sugarcane	NA
+SRR1926122	Rhizosphere	Rhizosphere	Sugarcane	NA
+SRR1926128	Soil	Agricultural soil	NA	NA
+SRR1926129	Soil	Agricultural soil	NA	NA
+SRR1926130	Soil	Agricultural soil	NA	NA
+SRR1926131	Soil	Agricultural soil	NA	NA
+SRR1926147	Rhizosphere	Rhizosphere	Sugarcane	NA
+SRR1926150	Rhizosphere	Rhizosphere	Sugarcane	NA
+SRR1926159	Soil	Agricultural soil	NA	NA
+SRR1926199	Soil	Agricultural soil	NA	NA
+SRR1926200	Soil	Agricultural soil	NA	NA
+SRR1926201	Soil	Agricultural soil	NA	NA
+SRR2070858	Soil	Agricultural soil	NA	NA
+SRR2070862	Soil	Agricultural soil	NA	NA
+SRR2070865	Soil	Agricultural soil	NA	NA
+SRR2546421	Soil	Grassland	NA	NA
+SRR2546422	Soil	Grassland	NA	NA
+SRR2546423	Soil	Grassland	NA	NA
+SRR2546425	Soil	Grassland	NA	NA
+SRR2546426	Soil	Grassland	NA	NA
+SRR2546427	Soil	Grassland	NA	NA
+SRR2546428	Soil	Grassland	NA	NA
+SRR2546429	Soil	Grassland	NA	NA
+SRR2546430	Soil	Grassland	NA	NA
+SRR3591800	Soil	Agricultural soil	NA	NA
+SRR3592089	Soil	Agricultural soil	NA	NA
+SRR3592090	Soil	Agricultural soil	NA	NA
+SRR3592108	Soil	Agricultural soil	NA	NA
+SRR3601981	Soil	Agricultural soil	NA	NA
+SRR3601982	Soil	Agricultural soil	NA	NA
+SRR3601984	Soil	Agricultural soil	NA	NA
+SRR3601985	Soil	Agricultural soil	NA	NA
+SRR3601986	Soil	Agricultural soil	NA	NA
+SRR3601987	Soil	Agricultural soil	NA	NA
+SRR3601989	Soil	Agricultural soil	NA	NA
+SRR3624110	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624124	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624125	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624126	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624158	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624173	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624174	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624175	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624176	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624177	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624178	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3624179	Rhizosphere	Rhizosphere	Citrus	NA
+SRR3954445	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954446	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954447	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954448	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954449	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954450	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954451	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954452	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954453	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954454	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954455	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR3954462	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954463	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954464	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954465	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954466	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954467	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954468	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954469	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954470	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954471	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954472	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954473	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3954474	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR3972293	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054746
+SRR3974376	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054712
+SRR3977097	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054728
+SRR3977098	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054728
+SRR3977135	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053808
+SRR3977136	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053808
+SRR3977139	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053798
+SRR3977438	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054694
+SRR3977439	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054694
+SRR3978361	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053864
+SRR3978390	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053864
+SRR3979409	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054663
+SRR3979410	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054663
+SRR3979453	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053809
+SRR3979454	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053809
+SRR3981189	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054792
+SRR3981190	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054792
+SRR3982069	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0055347
+SRR3982074	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054785
+SRR3982075	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054785
+SRR3982488	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0054735
+SRR3983528	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0055416
+SRR3983531	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054709
+SRR3983532	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0054705
+SRR3984567	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0054708
+SRR3984669	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0054781
+SRR3984684	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0054706
+SRR3984701	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0055377
+SRR3984702	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0055346
+SRR3984705	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0055314
+SRR3984706	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0054780
+SRR3984869	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0055378
+SRR3984885	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0055349
+SRR3988227	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057575
+SRR3988230	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057574
+SRR3988232	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057738
+SRR3988233	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057738
+SRR3988234	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057738
+SRR3988235	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057738
+SRR3988236	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057737
+SRR3988237	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057737
+SRR3988238	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057737
+SRR3988239	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0057737
+SRR3988262	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0057739
+SRR3988263	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0057739
+SRR3988264	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0057739
+SRR3988265	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0057739
+SRR3989261	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0056910
+SRR3989262	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0056909
+SRR3989263	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0056908
+SRR3989265	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0056911
+SRR3989266	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0056913
+SRR3989267	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0056914
+SRR3989268	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0056912
+SRR3989283	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0056939
+SRR3989284	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0056940
+SRR3989285	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0056941
+SRR3989286	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0056942
+SRR3989294	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0056943
+SRR3989440	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0071733
+SRR3989441	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0071734
+SRR3989442	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0071734
+SRR3989449	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0071735
+SRR3989454	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0071736
+SRR3989475	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0071737
+SRR4027993	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0052030
+SRR4027994	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0052030
+SRR4027997	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0052030
+SRR4027998	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0052030
+SRR4030077	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053808
+SRR4030078	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054663
+SRR4030079	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054785
+SRR4030080	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054728
+SRR4030085	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054694
+SRR4030086	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053864
+SRR4030091	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0053798
+SRR4030097	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0054792
+SRR4051794	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR4051795	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0053871
+SRR4051812	Soil	Grassland	NA	https://gold.jgi.doe.gov/project?id=Gp0052435
+SRR4140278	Rhizosphere	Rhizosphere	Agave	https://gold.jgi.doe.gov/project?id=Gp0104144
+SRR5195106	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195107	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195108	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195109	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195110	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195111	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195112	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195113	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195114	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195115	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195116	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195117	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195118	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195119	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195120	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195121	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195122	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195123	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195124	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195125	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195126	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195127	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195128	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195129	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195130	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195131	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195132	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195133	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195134	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195135	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195136	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195137	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195138	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195139	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195140	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195141	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195142	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195143	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195144	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195145	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195146	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195147	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5195148	Rhizosphere	Rhizosphere	Citrus	NA
+SRR5215813	Soil	Forest	NA	https://gold.jgi.doe.gov/project?id=Gp0146735
+SRR5234505	Rhizosphere	Rhizosphere	Acacia dealbata	NA
+SRR5234506	Rhizosphere	Rhizosphere	Acacia dealbata	NA
+SRR5234507	Rhizosphere	Rhizosphere	Acacia dealbata	NA
+SRR5234508	Rhizosphere	Rhizosphere	Acacia dealbata	NA
+SRR5234509	Rhizosphere	Rhizosphere	Acacia dealbata	NA
+SRR5234510	Rhizosphere	Rhizosphere	Acacia dealbata	NA
+SRR5234511	Rhizosphere	Rhizosphere	Acacia dealbata	NA
+SRR5234512	Rhizosphere	Rhizosphere	Acacia dealbata	NA
+SRR5247115	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0057573
+SRR5247130	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0057736
+SRR5247131	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0057736
+SRR5247132	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0057736
+SRR5247133	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0057736
+SRR5248464	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0056916
+SRR5248466	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0056915
+SRR5248520	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0056936
+SRR5248580	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0056938
+SRR5248581	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0056937
+SRR5256888	Rhizosphere	Rhizosphere	Tabebuia heterophylla	https://gold.jgi.doe.gov/project?id=Gp0072020
+SRR5256985	Rhizosphere	Rhizosphere	Tabebuia heterophylla	https://gold.jgi.doe.gov/project?id=Gp0072021
+SRR5256987	Rhizosphere	Rhizosphere	Tabebuia heterophylla	https://gold.jgi.doe.gov/project?id=Gp0072022
+SRR5256988	Rhizosphere	Rhizosphere	Tabebuia heterophylla	https://gold.jgi.doe.gov/project?id=Gp0072023
+SRR5259830	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116039
+SRR5259831	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116035
+SRR5259832	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116038
+SRR5259833	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116037
+SRR5259834	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116036
+SRR5259835	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116043
+SRR5259836	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116040
+SRR5259837	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116041
+SRR5259838	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116044
+SRR5259839	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116042
+SRR5259938	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116045
+SRR5259939	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116046
+SRR5259940	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116047
+SRR5260067	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116048
+SRR5260068	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116053
+SRR5260069	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116054
+SRR5260070	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116051
+SRR5260071	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116049
+SRR5260072	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116050
+SRR5260073	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116052
+SRR5260182	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116058
+SRR5260183	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116055
+SRR5260184	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116056
+SRR5260185	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116060
+SRR5260186	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116061
+SRR5260187	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116057
+SRR5260188	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116059
+SRR5260217	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116062
+SRR5260272	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116064
+SRR5260273	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116063
+SRR5260274	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116066
+SRR5260275	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116065
+SRR5269546	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0089067
+SRR5269726	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0089069
+SRR5270116	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0089068
+SRR5451359	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0111714
+SRR5451372	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0111726
+SRR5451373	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0111726
+SRR5451374	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0112755
+SRR5451376	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0112756
+SRR5451422	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0112757
+SRR5451449	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0112758
+SRR5451450	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0112760
+SRR5451451	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0112759
+SRR5451458	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0112761
+SRR5451461	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0112762
+SRR5451564	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0112764
+SRR5451578	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0112767
+SRR5451581	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0112765
+SRR5451585	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0112766
+SRR5451590	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0112768
+SRR5451657	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0112770
+SRR5451658	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0112769
+SRR5451659	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0112771
+SRR5451664	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0112772
+SRR5451670	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0112773
+SRR5451679	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0112774
+SRR5451700	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112776
+SRR5451714	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0112775
+SRR5451725	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112777
+SRR5451739	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112780
+SRR5451810	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112781
+SRR5452023	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112782
+SRR5452084	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112783
+SRR5452139	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112787
+SRR5452140	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112786
+SRR5452141	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112784
+SRR5452142	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112785
+SRR5452232	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112788
+SRR5452256	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112789
+SRR5456702	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112790
+SRR5456703	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112794
+SRR5456737	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112795
+SRR5456787	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112793
+SRR5456800	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112792
+SRR5456801	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112791
+SRR5456833	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112796
+SRR5456904	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112797
+SRR5456944	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112798
+SRR5456945	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112800
+SRR5456946	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112799
+SRR5456958	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112802
+SRR5456965	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112801
+SRR5456967	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112803
+SRR5456970	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112804
+SRR5456973	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112805
+SRR5456974	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112806
+SRR5456975	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112807
+SRR5456976	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112808
+SRR5456985	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112810
+SRR5456986	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112809
+SRR5456988	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112812
+SRR5460454	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116322
+SRR5460455	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116323
+SRR5460457	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116321
+SRR5460458	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116320
+SRR5460461	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116324
+SRR5460462	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116327
+SRR5460463	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116326
+SRR5460480	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116328
+SRR5460690	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116340
+SRR5460691	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116340
+SRR5460692	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116345
+SRR5460694	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116345
+SRR5496025	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116330
+SRR5496027	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112814
+SRR5496028	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0112813
+SRR5506996	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0111706
+SRR5506998	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0111707
+SRR5507163	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0111709
+SRR5507178	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0111708
+SRR5508059	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0111710
+SRR5508097	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0111711
+SRR5509277	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0111712
+SRR5511004	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0111713
+SRR5511291	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0111715
+SRR5511879	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0111716
+SRR5517144	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0111720
+SRR5517431	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0111719
+SRR5574089	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0111721
+SRR5574261	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0111723
+SRR5574262	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0111724
+SRR5574263	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0111725
+SRR5576206	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0111722
+SRR5578835	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0111717
+SRR5578837	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0111718
+SRR5579275	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0112763
+SRR5579859	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112852
+SRR5579862	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112853
+SRR5579863	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112855
+SRR5579864	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112854
+SRR5579871	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112856
+SRR5579872	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112857
+SRR5579875	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112859
+SRR5579883	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112860
+SRR5579884	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112861
+SRR5579885	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112862
+SRR5581483	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0112863
+SRR5581992	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116325
+SRR5582001	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116329
+SRR5582372	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116332
+SRR5582390	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116333
+SRR5582436	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116331
+SRR5582993	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116334
+SRR5583252	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116335
+SRR5583254	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116335
+SRR5584097	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116336
+SRR5584873	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116337
+SRR5585385	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116338
+SRR5585387	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116339
+SRR5585388	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116341
+SRR5585435	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116342
+SRR5585586	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116343
+SRR5659263	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116213
+SRR5660397	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116214
+SRR5660398	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116214
+SRR5664279	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116216
+SRR5664280	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116215
+SRR5665213	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116217
+SRR5665254	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116218
+SRR5665647	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116219
+SRR5665648	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116220
+SRR5665809	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116221
+SRR5665811	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116222
+SRR5674476	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116223
+SRR5674536	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116224
+SRR5680860	Soil	Peat soil	NA	https://gold.jgi.doe.gov/project?id=Gp0116225
+SRR5687767	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119780
+SRR5687768	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119781
+SRR5688500	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119782
+SRR5688572	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119783
+SRR5689334	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119784
+SRR5689906	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116347
+SRR5689907	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116346
+SRR5689908	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116348
+SRR5689909	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116349
+SRR5689928	Rhizosphere	Rhizosphere	Populus deltoides	https://gold.jgi.doe.gov/project?id=Gp0116344
+SRR5690242	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119785
+SRR5690348	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119786
+SRR5690349	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119787
+SRR5690554	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119788
+SRR5690606	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119789
+SRR5690625	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119790
+SRR5699024	Soil	Agricultural soil	NA	https://gold.jgi.doe.gov/project?id=Gp0119791
+SRR6056495	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0127767
+SRR6056496	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0127767
+SRR6056499	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0127766
+SRR6056501	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0127765
+SRR6056502	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0127769
+SRR6056503	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0127768
+SRR6056504	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0127770
+SRR6056506	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0127771
+SRR6056512	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0127774
+SRR6056513	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0127774
+SRR6056514	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0127773
+SRR6056515	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0127772
+SRR6056522	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0127775
+SRR6056553	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0127778
+SRR6056554	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0127777
+SRR6056556	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0127779
+SRR6056557	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0127776
+SRR6214544	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0056917
+SRR6435859	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177595
+SRR6435862	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177596
+SRR6435880	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177601
+SRR6435881	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177602
+SRR6435882	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177598
+SRR6435883	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177597
+SRR6435884	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177603
+SRR6435886	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177599
+SRR6435887	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177600
+SRR6435946	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177608
+SRR6435947	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177605
+SRR6435948	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177606
+SRR6435949	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177607
+SRR6435951	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177609
+SRR6435952	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177612
+SRR6435953	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177613
+SRR6435954	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177614
+SRR6435955	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177611
+SRR6435956	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177610
+SRR6435958	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177618
+SRR6435959	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177619
+SRR6435960	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177621
+SRR6435961	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177617
+SRR6435962	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177616
+SRR6435963	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177620
+SRR6435964	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177615
+SRR6435982	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177622
+SRR6435983	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177623
+SRR6435984	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177624
+SRR6436009	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177633
+SRR6436014	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177630
+SRR6436015	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177626
+SRR6436016	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177629
+SRR6436017	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177628
+SRR6436018	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177631
+SRR6436019	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177632
+SRR6436020	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177627
+SRR6436021	Rhizosphere	Rhizosphere	Arabidopsis thaliana	https://gold.jgi.doe.gov/project?id=Gp0177625
+SRR6436041	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177636
+SRR6436042	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177635
+SRR6436043	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177634
+SRR6436044	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177637
+SRR6436057	Soil	Misc.	NA	https://gold.jgi.doe.gov/project?id=Gp0177638
+SRR6489859	Rhizosphere	Rhizosphere	 Sorghum bicolor	https://gold.jgi.doe.gov/project?id=Gp0208555
+SRR6489884	Rhizosphere	Rhizosphere	 Sorghum bicolor	https://gold.jgi.doe.gov/project?id=Gp0208556
+SRR6490015	Rhizosphere	Rhizosphere	 Sorghum bicolor	https://gold.jgi.doe.gov/project?id=Gp0208557
+SRR6490096	Rhizosphere	Rhizosphere	 Sorghum bicolor	https://gold.jgi.doe.gov/project?id=Gp0208558
+SRR6956985	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0177537
+SRR6957156	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0177539
+SRR6957160	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0177545
+SRR6957162	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0177541
+SRR6957165	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0177540
+SRR6957362	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0177547
+SRR6957363	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0191379
+SRR6958124	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215196
+SRR6958471	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215198
+SRR6958472	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215202
+SRR6958474	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215205
+SRR6958475	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215201
+SRR6958482	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215206
+SRR6958483	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215203
+SRR6958552	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215207
+SRR7010302	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0217509
+SRR7010303	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0217509
+SRR7010524	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0217510
+SRR7010525	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0217510
+SRR7010528	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0217511
+SRR7013836	Soil	Misc.	NA	NA
+SRR7013837	Soil	Misc.	NA	NA
+SRR7013838	Soil	Misc.	NA	NA
+SRR7013839	Soil	Misc.	NA	NA
+SRR7013840	Soil	Misc.	NA	NA
+SRR7013841	Soil	Misc.	NA	NA
+SRR7013842	Soil	Misc.	NA	NA
+SRR7013843	Soil	Misc.	NA	NA
+SRR7013844	Soil	Misc.	NA	NA
+SRR7013845	Soil	Misc.	NA	NA
+SRR7013846	Soil	Misc.	NA	NA
+SRR7013847	Soil	Misc.	NA	NA
+SRR7013848	Soil	Misc.	NA	NA
+SRR7013849	Soil	Misc.	NA	NA
+SRR7013850	Soil	Misc.	NA	NA
+SRR7013851	Soil	Misc.	NA	NA
+SRR7013852	Soil	Misc.	NA	NA
+SRR7013853	Soil	Misc.	NA	NA
+SRR7013854	Soil	Misc.	NA	NA
+SRR7013855	Soil	Misc.	NA	NA
+SRR7013858	Soil	Agricultural soil	NA	NA
+SRR7013859	Soil	Agricultural soil	NA	NA
+SRR7013860	Soil	Agricultural soil	NA	NA
+SRR7013861	Soil	Agricultural soil	NA	NA
+SRR7013862	Soil	Agricultural soil	NA	NA
+SRR7013863	Soil	Agricultural soil	NA	NA
+SRR7013864	Soil	Agricultural soil	NA	NA
+SRR7013865	Soil	Agricultural soil	NA	NA
+SRR7013866	Soil	Agricultural soil	NA	NA
+SRR7013867	Soil	Agricultural soil	NA	NA
+SRR7013868	Soil	Agricultural soil	NA	NA
+SRR7013869	Soil	Agricultural soil	NA	NA
+SRR7013870	Soil	Agricultural soil	NA	NA
+SRR7013871	Soil	Agricultural soil	NA	NA
+SRR7013872	Soil	Agricultural soil	NA	NA
+SRR7013873	Soil	Agricultural soil	NA	NA
+SRR7013874	Soil	Agricultural soil	NA	NA
+SRR7013875	Soil	Agricultural soil	NA	NA
+SRR7013876	Soil	Agricultural soil	NA	NA
+SRR7013877	Soil	Agricultural soil	NA	NA
+SRR7013878	Soil	Agricultural soil	NA	NA
+SRR7013879	Soil	Agricultural soil	NA	NA
+SRR7013880	Soil	Agricultural soil	NA	NA
+SRR7013881	Soil	Agricultural soil	NA	NA
+SRR7013882	Soil	Agricultural soil	NA	NA
+SRR7013883	Soil	Agricultural soil	NA	NA
+SRR7013884	Soil	Agricultural soil	NA	NA
+SRR7013885	Soil	Agricultural soil	NA	NA
+SRR7013886	Soil	Agricultural soil	NA	NA
+SRR7013887	Soil	Agricultural soil	NA	NA
+SRR7013888	Soil	Agricultural soil	NA	NA
+SRR7013889	Soil	Agricultural soil	NA	NA
+SRR7013890	Soil	Agricultural soil	NA	NA
+SRR7013891	Soil	Agricultural soil	NA	NA
+SRR7013892	Soil	Agricultural soil	NA	NA
+SRR7013893	Soil	Agricultural soil	NA	NA
+SRR7013894	Soil	Agricultural soil	NA	NA
+SRR7013896	Soil	Agricultural soil	NA	NA
+SRR7013897	Soil	Agricultural soil	NA	NA
+SRR7013898	Soil	Agricultural soil	NA	NA
+SRR7013899	Soil	Agricultural soil	NA	NA
+SRR7013900	Soil	Agricultural soil	NA	NA
+SRR7013901	Soil	Agricultural soil	NA	NA
+SRR7013902	Soil	Agricultural soil	NA	NA
+SRR7013903	Soil	Agricultural soil	NA	NA
+SRR7013904	Soil	Agricultural soil	NA	NA
+SRR7013905	Soil	Agricultural soil	NA	NA
+SRR7013906	Soil	Agricultural soil	NA	NA
+SRR7013907	Soil	Agricultural soil	NA	NA
+SRR7013908	Soil	Agricultural soil	NA	NA
+SRR7013909	Soil	Agricultural soil	NA	NA
+SRR7013910	Soil	Agricultural soil	NA	NA
+SRR7013911	Soil	Agricultural soil	NA	NA
+SRR7013912	Soil	Agricultural soil	NA	NA
+SRR7013913	Soil	Agricultural soil	NA	NA
+SRR7013914	Soil	Agricultural soil	NA	NA
+SRR7013915	Soil	Agricultural soil	NA	NA
+SRR7013916	Soil	Agricultural soil	NA	NA
+SRR7013917	Soil	Agricultural soil	NA	NA
+SRR7013918	Soil	Agricultural soil	NA	NA
+SRR7013919	Soil	Agricultural soil	NA	NA
+SRR7013920	Soil	Agricultural soil	NA	NA
+SRR7013921	Soil	Agricultural soil	NA	NA
+SRR7013922	Soil	Agricultural soil	NA	NA
+SRR7013923	Soil	Agricultural soil	NA	NA
+SRR7013924	Soil	Agricultural soil	NA	NA
+SRR7013925	Soil	Agricultural soil	NA	NA
+SRR7013926	Soil	Agricultural soil	NA	NA
+SRR7013927	Soil	Agricultural soil	NA	NA
+SRR7013928	Soil	Agricultural soil	NA	NA
+SRR7013929	Soil	Agricultural soil	NA	NA
+SRR7091408	Rhizosphere	Rhizosphere	Vellozia epidendroides	https://gold.jgi.doe.gov/project?id=Gp0238804
+SRR7091409	Rhizosphere	Rhizosphere	Vellozia epidendroides	https://gold.jgi.doe.gov/project?id=Gp0238805
+SRR7091410	Rhizosphere	Rhizosphere	Vellozia epidendroides	https://gold.jgi.doe.gov/project?id=Gp0238806
+SRR7186477	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186478	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186479	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186480	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186482	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186497	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186503	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186504	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186521	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186522	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186523	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186524	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186525	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7186526	Rhizosphere	Rhizosphere	Foxtail millet	NA
+SRR7591305	Rhizosphere	Rhizosphere	Spruce	https://gold.jgi.doe.gov/project?id=Gp0256497
+SRR7591449	Rhizosphere	Rhizosphere	Spruce	https://gold.jgi.doe.gov/project?id=Gp0256499
+SRR7591450	Rhizosphere	Rhizosphere	Spruce	https://gold.jgi.doe.gov/project?id=Gp0256498
+SRR7591534	Rhizosphere	Rhizosphere	Spruce	https://gold.jgi.doe.gov/project?id=Gp0267119
+SRR7591549	Rhizosphere	Rhizosphere	Spruce	https://gold.jgi.doe.gov/project?id=Gp0256500
+SRR7975588	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0177543
+SRR7975607	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0177542
+SRR7975608	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0177536
+SRR7975684	Rhizosphere	Rhizosphere	Maize	https://gold.jgi.doe.gov/project?id=Gp0177538
+SRR7975950	Rhizosphere	Rhizosphere	Silvergrass	https://gold.jgi.doe.gov/project?id=Gp0177544
+SRR7975952	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0191378
+SRR7975954	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0177546
+SRR7975957	Rhizosphere	Rhizosphere	Switchgrass	https://gold.jgi.doe.gov/project?id=Gp0191380
+SRR7976076	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215197
+SRR7976077	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215199
+SRR7976078	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215200
+SRR7976139	Soil	Riparian zone	NA	https://gold.jgi.doe.gov/project?id=Gp0215204
+SRR8527069	Soil	Agricultural soil	NA	NA
+SRR8527070	Soil	Agricultural soil	NA	NA
+SRR8527071	Soil	Agricultural soil	NA	NA
+SRR8527072	Soil	Agricultural soil	NA	NA
+SRR8527073	Soil	Agricultural soil	NA	NA
+SRR8527074	Soil	Agricultural soil	NA	NA
+SRR8527075	Soil	Agricultural soil	NA	NA
+SRR8527076	Soil	Agricultural soil	NA	NA
+SRR8527077	Soil	Agricultural soil	NA	NA
+SRR908208	Rhizosphere	Rhizosphere	Cucumber	NA
+SRR908211	Rhizosphere	Rhizosphere	Cucumber	NA
+SRR908272	Rhizosphere	Rhizosphere	Cucumber	NA
+SRR908273	Rhizosphere	Rhizosphere	Wheat	NA
+SRR908275	Rhizosphere	Rhizosphere	Wheat	NA
+SRR908276	Rhizosphere	Rhizosphere	Wheat	NA
+SRR908279	Soil	Agricultural soil	NA	NA
+SRR908281	Soil	Agricultural soil	NA	NA
+SRR908290	Soil	Agricultural soil	NA	NA
+SRR908291	Soil	Agricultural soil	NA	NA
+wr1	Rhizosphere	Rhizosphere	Wheat	NA
+wr2	Rhizosphere	Rhizosphere	Wheat	NA
+wr3	Rhizosphere	Rhizosphere	Wheat	NA
+wr4	Rhizosphere	Rhizosphere	Wheat	NA
+wr5	Rhizosphere	Rhizosphere	Wheat	NA
